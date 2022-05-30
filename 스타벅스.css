@@ -23,13 +23,11 @@ body {
     background-image: url(summer.jpg);
     width: 100%;
     height: 646px;
-    /* position: relative; */
     display: grid;
     grid-template-columns: 1fr 1200px 1fr;
 }
 
 .section1_oddments_yhy {
-    /* position: absolute; */
     position: relative;
     grid-column: 2/3;
 }
